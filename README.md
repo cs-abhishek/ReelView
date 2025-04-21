@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hi everyone! 👋 We're Abhishek Kumar, Zaara Tahreem, Noorie Parveen, and Amna Hasaan. Our project, ReelView, is a cross-platform movie browsing, and review watching app built using Kotlin Multiplatform and Compose. This project gave us hands-on experience with real-world app development, API integration, UI/UX design, and building for Android, iOS, and desktop using a single codebase. It's been an exciting journey exploring modern development tools and bringing our ideas to life! 🌟🎬
 🎬 ReelView
 <!-- <p align="center"><img src="assets/logo_notflix.png" alt="ReelView" height="31px"></p> --> <p align="center"> <img src="https://img.shields.io/badge/-KOTLIN-E50914?logo=kotlin&logoColor=white&style=for-the-badge"> <img src="https://img.shields.io/badge/-ANDROID-E50914?logo=android&logoColor=white&style=for-the-badge"> <img src="https://img.shields.io/badge/-IOS-E50914?logo=ios&logoColor=white&style=for-the-badge"> <img src="https://img.shields.io/badge/-DESKTOP-E50914?logo=desktop&logoColor=white&style=for-the-badge"> </p>
@@ -178,3 +179,7 @@ KaMPKit Sample
 People In Space
 
 Poetree App
+=======
+# ReelView
+ReelView is a cross-platform app designed to browse movies and watch reviews, built using Kotlin Multiplatform and Compose. This app leverages a single codebase to deliver a seamless experience across Android, iOS, and desktop platforms (Linux, Windows, macOS).
+>>>>>>> c16fdb67ffec26cc7901b1b52bd90e7b889ede6a
